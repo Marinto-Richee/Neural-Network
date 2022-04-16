@@ -16,10 +16,10 @@ For example, in medical diagnosis, a binary classifier for a specific disease co
 
 ## ALGORITHM:
 
-1.
-2.
-3.
-4.
+1.Import the necessary modules.<br/>
+2.Create the Dataset using make_blob function.<br/>
+3.Assign the counter value using the Counter Function and with the help of a for loop iterate over the values.<br/>
+4.Plot the row values in the graph<br/>
 
 ## PROGRAM:
 
