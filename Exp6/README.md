@@ -1,13 +1,13 @@
 ### EX NO : 06
 ### DATE  : 29/04/2022
 # <p align="center"> ANN BY BACK PROPAGATION ALGORITHM </p>
-## Aim:
+## AIM:
    To implement multi layer artificial neural network using back propagation algorithm.
 ## Equipments Required:
 1. Hardware – PCs
 2. Anaconda – Python 3.7 Installation / Moodle-Code Runner /Google Colab
 
-## Related Theory Concept:
+## RELATED THEORY CONCEPT:
 The Backpropagation algorithm is a supervised learning method for multilayer feed-forward networks from the field of Artificial Neural Networks.
 
 Feed-forward neural networks are inspired by the information processing of one or more neural cells, called a neuron. A neuron accepts input signals via its dendrites, which pass the electrical signal down to the cell body. The axon carries the signal out to synapses, which are the connections of a cell’s axon to other cell’s dendrites.
@@ -15,13 +15,13 @@ Feed-forward neural networks are inspired by the information processing of one o
 The principle of the backpropagation approach is to model a given function by modifying internal weightings of input signals to produce an expected output signal. The system is trained using a supervised learning method, where the error between the system’s output and a known expected output is presented to the system and used to modify its internal state.
 
 Technically, the backpropagation algorithm is a method for training the weights in a multilayer feed-forward neural network. As such, it requires a network structure to be defined of one or more layers where one layer is fully connected to the next layer. A standard network structure is one input layer, one hidden layer, and one output layer.
-## Algorithm
+## ALGORITHM:
 1. Import necessary libraries
 2. Define the Sigmoid and derivative of sigmoid functions 
 3. Define the model and the epoch, input layer, output layer values 
 4. Run the model.
 
-## Program:
+## PROGRAM:
 ```
 /*
 Program to implement ANN by back propagation algorithm.
@@ -69,8 +69,8 @@ print("\nPredicted Output: \n",str(output))
 
 ```
 
-## Output:
+## OUTPUT:
 ![image](https://user-images.githubusercontent.com/65499285/169466440-e90aa1a5-f613-4631-a1da-37d065593170.png)
 
-## Result:
+## RESULT:
 Thus the python program successully implemented multi layer artificial neural network using back propagation algorithm.
