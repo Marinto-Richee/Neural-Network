@@ -19,12 +19,14 @@ Implementing logic gates using neural networks help understand the mathematical 
 4. Run the model for 1000 epochs and print the results 
 
 ## Program:
-```python 
+```
 /*
 Program to implement XOR Logic Gate.
-Developed by   :212220230031
-RegisterNumber :Marinto Richee J  
+Developed by   : Marinto Richee J
+Register Number : 212220230031 
 */
+```
+```python
 import numpy as np
 from keras.models import Sequential
 from keras.layers.core import Dense
