@@ -22,13 +22,14 @@ Technically, the backpropagation algorithm is a method for training the weights 
 4. Run the model.
 
 ## Program:
-```python 
+```
 /*
 Program to implement ANN by back propagation algorithm.
-Developed by   :212220230031
-RegisterNumber :Marinto Richee J   
+Developed by   : Marinto Richee J
+RegisterNumber : 212220230031 
 */
-
+```
+```python 
 import numpy as np
 X=np.array(([2,9],[1,5],[3,6]),dtype=float)
 y=np.array(([92],[86],[89]),dtype=float)
