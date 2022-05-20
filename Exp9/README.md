@@ -25,12 +25,14 @@ Non-parametric learning algorithm − KNN is also a non-parametric learning algo
 8. Test neural network with new data
 
 ## Program:
-```python
+```
 /*
 Program to implement KNN classification algorithm.
 Developed by   : Marinto Richee J
 Register Number :  212220230031
 */
+```
+```python
 # k-nearest neighbors on the Iris Flowers Dataset
 from random import seed
 from random import randrange
