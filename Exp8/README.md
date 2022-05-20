@@ -13,10 +13,10 @@ Implementing logic gates using neural networks help understand the mathematical 
 ![image](https://user-images.githubusercontent.com/65499285/169467988-83bcb09f-85dd-41bf-91a6-885075d4f3c5.png)
 
 ## Algorithm
-1.Import the necessary libraries 
-2.Define the training data and target data 
-3.Add layers to the Model 
-4.Run the model for 1000 epochs and print the results 
+1. Import the necessary libraries 
+2. Define the training data and target data 
+3. Add layers to the Model 
+4. Run the model for 1000 epochs and print the results 
 
 ## Program:
 ```python 
