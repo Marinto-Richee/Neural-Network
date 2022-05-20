@@ -1,20 +1,20 @@
 ### EX NO : 09
 ### DATE  : 27/05/2022
 # <p align="center"> KNN CLASSIFICATION ALGORITHM </p>
-## Aim:
+## AIM:
    To implement KNN classification algorithm in python.
-## Equipments Required:
+## EQUIPMENTS REQUIRED:
 1. Hardware – PCs
 2. Anaconda – Python 3.7 Installation / Moodle-Code Runner /Google Colab
 
-## Related Theory Concept:
+## RELATED THEORY CONCEPT:
 K-nearest neighbors (KNN) algorithm is a type of supervised ML algorithm which can be used for both classification as well as regression predictive problems. However, it is mainly used for classification predictive problems in industry. The following two properties would define KNN well −
 
 Lazy learning algorithm − KNN is a lazy learning algorithm because it does not have a specialized training phase and uses all the data for training while classification.
 
 Non-parametric learning algorithm − KNN is also a non-parametric learning algorithm because it doesn’t assume anything about the underlying data.
 
-## Algorithm
+## ALGORITHM:
 1. Import packages
 2. Define neural network class
 3. Model single neuron with 3 inputs and 1 output and assign random weights to a 3 x 1 matrix with values between -1 and 1
@@ -24,7 +24,7 @@ Non-parametric learning algorithm − KNN is also a non-parametric learning algo
 7. Train neural network using training data
 8. Test neural network with new data
 
-## Program:
+## PROGRAM:
 ```
 /*
 Program to implement KNN classification algorithm.
@@ -173,10 +173,10 @@ print('Scores: %s' % scores)
 print('Mean Accuracy: %.3f%%' % (sum(scores)/float(len(scores))))
 ```
 
-## Output:
+## OUTPUT:
 
 ![image](https://user-images.githubusercontent.com/65499285/169487388-fb17b3b2-7eee-4f96-88db-02f16b8218c7.png)
 
 
-## Result:
+## RESULT:
 Thus the python program successully implemented KNN classification algorithm.
