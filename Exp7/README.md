@@ -1,13 +1,13 @@
 ### EX NO : 07
 ### DATE  : 06/05/2022
 # <p align="center"> ROC CURVE PLOT </p>
-## Aim:
+## AIM:
    To write python code to plot ROC curve used in ANN.
-## Equipments Required:
+## EQUIPMENTS REQUIRED:
 1. Hardware – PCs
 2. Anaconda – Python 3.7 Installation / Moodle-Code Runner /Google Colab
 
-## Related Theory Concept:
+## RELATED THEORY CONCEPT:
 An ROC curve (receiver operating characteristic curve) is a graph showing the performance of a classification model at all classification thresholds. This curve plots two parameters:
 
 True Positive Rate (TPR) is a synonym for recall and is therefore defined as follows:<br>
@@ -18,13 +18,13 @@ False Positive Rate (FPR) is defined as follows:<br>
 
 An ROC curve plots TPR vs. FPR at different classification thresholds. Lowering the classification threshold classifies more items as positive, thus increasing both False Positives and True Positives. The following figure shows a typical ROC curve.
 
-## Algorithm
+## ALGORITHM:
 1. Import the necessary libraries 
 2. Load the dataset and split the training and testing sets.
 3. Fit the training set to the logistic regression model.
 4. Display the results with the test data.
 
-## Program:
+## PROGRAM:
 ```
 /*
 Program to plot Receiver Operating Characteristic [ROC] Curve.
@@ -74,11 +74,11 @@ plt.legend(loc=4)
 plt.show()
 ```
 
-## Output:
+## OUTPUT:
 ![image](https://user-images.githubusercontent.com/65499285/169471610-0bf9594c-8a6e-431b-9721-68b516069854.png)
 
 ![image](https://user-images.githubusercontent.com/65499285/169471636-fffd4f1a-8bfe-4c85-b614-0008297c48ff.png)
 
 
-## Result:
+## RESULT:
 Thus the python program successully plotted Receiver Operating Characteristic [ROC] Curve.
