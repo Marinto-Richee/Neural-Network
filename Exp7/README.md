@@ -25,12 +25,14 @@ An ROC curve plots TPR vs. FPR at different classification thresholds. Lowering 
 4. Display the results with the test data.
 
 ## Program:
-```python 
+```
 /*
 Program to plot Receiver Operating Characteristic [ROC] Curve.
-Developed by   :212220230031
-RegisterNumber :Marinto Richee J  
+Developed by   : Marinto Richee J
+Register Number : 212220230031
 */
+```
+```python
 import pandas as pd
 import numpy as np
 from sklearn.model_selection import train_test_split
