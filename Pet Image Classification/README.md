@@ -5,7 +5,7 @@
 2. Read the dataset and normalize the data.
 3. Form the CNN model using the necessary layers and filters.
 4. Train the model using the training dataset. 
-5. Evalute the model using the test data.
+5. Evaluate the model using the test data.
 6. Test the model upon various new images of dogs and cats.
 
 ## Program:

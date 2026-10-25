@@ -3,7 +3,7 @@
 # <p align="center"> KNN CLASSIFICATION ALGORITHM </p>
 ## AIM:
    To implement KNN classification algorithm in python.
-## EQUIPMENTS REQUIRED:
+## EQUIPMENT REQUIRED:
 1. Hardware – PCs
 2. Anaconda – Python 3.7 Installation / Moodle-Code Runner /Google Colab
 
@@ -179,4 +179,4 @@ print('Mean Accuracy: %.3f%%' % (sum(scores)/float(len(scores))))
 
 
 ## RESULT:
-Thus the python program successully implemented KNN classification algorithm.
+Thus the python program successfully implemented KNN classification algorithm.

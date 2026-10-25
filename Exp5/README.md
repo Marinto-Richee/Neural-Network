@@ -7,11 +7,11 @@ To develop a python code that creates a simple feed-forward neural networks or p
   
 ![image](https://user-images.githubusercontent.com/93023609/162692440-f59e7ad2-0414-4ddb-8640-fede7a0655f2.png)
 
-## EQUIPMENTS REQUIRED:
+## EQUIPMENT REQUIRED:
 1. Hardware – PCs
 2. Anaconda – Python 3.7 Installation / Moodle-Code Runner / Google Colab
 
-## RELATED THEORITICAL CONCEPT:
+## RELATED THEORETICAL CONCEPT:
 
 * Sigmoid Activation Function is commonly used for models where we have to predict the probability as an output. Since probability of anything exists only between the range of 0 and 1, sigmoid is the right choice because of its range.
 * The function is differentiable and provides a smooth gradient, i.e., preventing jumps in output values. This is represented by an S-shape of the sigmoid activation function. 

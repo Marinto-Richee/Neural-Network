@@ -3,11 +3,11 @@
 # <p align="center"> XOR GATE IMPLEMENTATION </p>
 ## AIM:
    To implement multi layer artificial neural network using back propagation algorithm.
-## EQUIPMENTS REQUIRED:
+## EQUIPMENT REQUIRED:
 1. Hardware – PCs
 2. Anaconda – Python 3.7 Installation / Moodle-Code Runner /Google Colab
 
-## REALTED THEORY CONCEPT:
+## RELATED THEORY CONCEPT:
 Implementing logic gates using neural networks help understand the mathematical computation by which a neural network processes its inputs to arrive at a certain output. This neural network will deal with the XOR logic problem. An XOR (exclusive OR gate) is a digital logic gate that gives a true output only when both its inputs differ from each other.
 <br>The truth table for an XOR gate is shown below:<br>
 ![image](https://user-images.githubusercontent.com/65499285/169467988-83bcb09f-85dd-41bf-91a6-885075d4f3c5.png)
@@ -50,4 +50,4 @@ print(model.predict(training_data).round())
 ![image](https://user-images.githubusercontent.com/65499285/169468521-7d4a40c8-a621-4e27-8ede-b476025e01fc.png)
 
 ## RESULT:
-Thus the python program successully implemented XOR logic gate.
+Thus the python program successfully implemented XOR logic gate.
