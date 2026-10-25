@@ -3,7 +3,7 @@
 # <p align="center"> ROC CURVE PLOT </p>
 ## AIM:
    To write python code to plot ROC curve used in ANN.
-## EQUIPMENTS REQUIRED:
+## EQUIPMENT REQUIRED:
 1. Hardware – PCs
 2. Anaconda – Python 3.7 Installation / Moodle-Code Runner /Google Colab
 
@@ -81,4 +81,4 @@ plt.show()
 
 
 ## RESULT:
-Thus the python program successully plotted Receiver Operating Characteristic [ROC] Curve.
+Thus the python program successfully plotted Receiver Operating Characteristic [ROC] Curve.

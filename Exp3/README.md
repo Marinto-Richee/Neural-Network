@@ -5,12 +5,12 @@
 
 To write a python program to implement the multi class classification algorithm .
 
-## EQUIPMENTS REQUIRED:
+## EQUIPMENT REQUIRED:
 
 1. Hardware – PCs
 2. Anaconda – Python 3.7 Installation / Moodle-Code Runner / Google Colab
 
-## RELATED THEORITICAL CONCEPT:
+## RELATED THEORETICAL CONCEPT:
 
 In multi-class classification, the neural network has the same number of output nodes as the number of classes. Each output node belongs to some class and outputs a score for that class. Class is a category for example Predicting animal class from an animal image is an example of multi-class classification, where each animal can belong to only one category.
 

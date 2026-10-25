@@ -3,7 +3,7 @@
 # <p align="center"> ANN BY BACK PROPAGATION ALGORITHM </p>
 ## AIM:
    To implement multi layer artificial neural network using back propagation algorithm.
-## Equipments Required:
+## Equipment Required:
 1. Hardware – PCs
 2. Anaconda – Python 3.7 Installation / Moodle-Code Runner /Google Colab
 
@@ -73,4 +73,4 @@ print("\nPredicted Output: \n",str(output))
 ![image](https://user-images.githubusercontent.com/65499285/169466440-e90aa1a5-f613-4631-a1da-37d065593170.png)
 
 ## RESULT:
-Thus the python program successully implemented multi layer artificial neural network using back propagation algorithm.
+Thus the python program successfully implemented multi layer artificial neural network using back propagation algorithm.
